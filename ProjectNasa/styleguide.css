@@ -1,0 +1,7 @@
+:root {
+  --login: rgba(100, 185, 48, 1);
+  --backgorund: rgba(45, 85, 187, 1);
+  --sombras: rgba(0, 0, 0, 0.2);
+  --pgina-atual: rgba(100, 185, 48, 0.7);
+  --p-gina-atual: 0px 4px 4px 0px rgba(100, 185, 48, 0.7);
+}

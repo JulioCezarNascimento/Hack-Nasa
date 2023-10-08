@@ -1,0 +1,255 @@
+.login {
+  background-color: #ffffff;
+  height: 844px;
+  overflow: hidden;
+  position: relative;
+  width: 390px;
+}
+
+.login .overlap {
+  height: 844px;
+  left: -41px;
+  position: absolute;
+  top: 0;
+  width: 446px;
+}
+
+.login .div {
+  background-color: var(--backgorund);
+  height: 844px;
+  left: 41px;
+  position: absolute;
+  top: 0;
+  width: 390px;
+}
+
+.login .con-vazado {
+  height: 370px;
+  left: 51px;
+  mix-blend-mode: soft-light;
+  position: absolute;
+  top: 219px;
+  width: 370px;
+}
+
+.login .group {
+  height: 70px;
+  left: 128px;
+  position: absolute;
+  top: 359px;
+  width: 215px;
+}
+
+.login .img {
+  height: 32px;
+  left: 0;
+  position: absolute;
+  top: 38px;
+  width: 213px;
+}
+
+.login .text-wrapper {
+  color: #ffffff;
+  font-family: "Poppins", Helvetica;
+  font-size: 20.3px;
+  font-weight: 300;
+  left: 37px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  text-align: center;
+  top: 0;
+}
+
+.login .rectangle-2 {
+  background-color: var(--sombras);
+  filter: blur(100px);
+  height: 127px;
+  left: 41px;
+  position: absolute;
+  top: 640px;
+  width: 390px;
+}
+
+.login .rectangle-3 {
+  background-color: var(--sombras);
+  filter: blur(100px);
+  height: 78px;
+  left: 0;
+  position: absolute;
+  top: 35px;
+  transform: rotate(-180deg);
+  width: 446px;
+}
+
+.login .overlap-wrapper {
+  height: 40px;
+  left: 41px;
+  position: absolute;
+  top: 0;
+  width: 392px;
+}
+
+.login .overlap-group {
+  background-color: #d9d9d9;
+  height: 40px;
+  position: relative;
+  width: 390px;
+}
+
+.login .text-wrapper-2 {
+  color: #000000;
+  font-family: "Inter", Helvetica;
+  font-size: 12px;
+  font-weight: 400;
+  left: 25px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 14px;
+}
+
+.login .group-2 {
+  height: 22px;
+  left: 297px;
+  position: absolute;
+  top: 10px;
+  width: 68px;
+}
+
+.login .overlap-group-wrapper {
+  height: 19px;
+  left: 58px;
+  position: absolute;
+  top: 0;
+  width: 10px;
+}
+
+.login .overlap-group-2 {
+  height: 19px;
+  position: relative;
+}
+
+.login .rectangle-1 {
+  left: 0 !important;
+  position: absolute !important;
+  top: 2px !important;
+}
+
+.login .rectangle-4 {
+  background-color: #000000;
+  border-radius: 3px;
+  height: 12px;
+  left: 2px;
+  position: absolute;
+  top: 0;
+  width: 6px;
+}
+
+.login .group-3 {
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 2px;
+  width: 45px;
+}
+
+.login .rectangle-5 {
+  background-color: #000000;
+  border-radius: 5px;
+  height: 9px;
+  left: 28px;
+  position: absolute;
+  top: 9px;
+  width: 3px;
+}
+
+.login .rectangle-6 {
+  background-color: #000000;
+  border-radius: 5px;
+  height: 13px;
+  left: 34px;
+  position: absolute;
+  top: 5px;
+  width: 4px;
+}
+
+.login .rectangle-7 {
+  background-color: #000000;
+  border-radius: 5px;
+  height: 18px;
+  left: 41px;
+  position: absolute;
+  top: 0;
+  width: 4px;
+}
+
+.login .image {
+  height: 20px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 0;
+  width: 20px;
+}
+
+.login .rectangle-8 {
+  background-color: #ffffff;
+  height: 77px;
+  left: 41px;
+  position: absolute;
+  top: 767px;
+  width: 390px;
+}
+
+.login .line {
+  height: 17px;
+  left: 375px;
+  position: absolute;
+  top: 59px;
+  width: 1px;
+}
+
+.login .text-wrapper-3 {
+  color: #63b82fb2;
+  font-family: "Poppins", Helvetica;
+  font-size: 12.9px;
+  font-weight: 400;
+  left: 380px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 57px;
+}
+
+.login .vector {
+  height: 3px;
+  left: 400px;
+  position: absolute;
+  top: 67px;
+  width: 6px;
+}
+
+.login .mask-group {
+  height: 17px;
+  left: 354px;
+  position: absolute;
+  top: 59px;
+  width: 17px;
+}
+
+.login .vector-2 {
+  height: 140px;
+  left: 1962px;
+  position: absolute;
+  top: -3929px;
+  width: 140px;
+}
+
+.login .vector-3 {
+  height: 4px;
+  left: 2208px;
+  position: absolute;
+  top: -4500px;
+  width: 9px;
+}
