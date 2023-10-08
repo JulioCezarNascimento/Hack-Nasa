@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Exibir Dados CSV</title>
+    <style>
+        table {
+            border-collapse: collapse;
+            width: 100%;
+        }
+        th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+            text-align: left;
+        }
+        th {
+            background-color: #f2f2f2;
+        }
+    </style>
+</head>
+<body>
+    <h1>Dados do CSV</h1>
+    <table>
+        <thead>
+            <tr>
+                <th>ID DO PROJETO</th>
+                <th>NOME DO PROJETO</th>
+                <!-- Adicione mais colunas conforme necessário -->
+            </tr>
+        </thead>
+        <tbody>
+            {% for row in data %}
+                <tr>
+                    <td>{{ row['project_id'] }}</td>
+                    <td>{{ row['project_name'] }}</td>
+                    <!-- Adicione mais colunas conforme necessário -->
+                </tr>
+            {% endfor %}
+        </tbody>
+    </table>
+</body>
+</html>
