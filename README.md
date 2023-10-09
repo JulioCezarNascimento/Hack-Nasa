@@ -1,24 +1,19 @@
 <h1 align="center"> conecte.ci </h1>
 
 <p align="center">
-More than an application: a global community. <br/>
+More than an application: a global community<br/>
 </p>
 
 <p align="center">
   <a href="#-stack">Technologies used</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Demo</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
-</p>
-
-<br>
-
-<p align="center">
-  <img alt="conecteci cover image" src="./assets/preview.jpg" width="100%">
+  <br><img src="https://github.com/JulioCezarNascimento/Hack-Nasa/blob/main/Wallpaper.png" alt="conecteci cover" width="100%">
 </p>
 
 
@@ -34,6 +29,10 @@ This project was developed with the following technologies/tools:
 - Git and Github
 - Codium
 - Figma
+
+
+## 🧐 Demo
+Attention, **NASA judges**, see our DEMO by [clicking here](https://drive.google.com/file/d/1rVdroISu4ZZbxb2Q4QEkNDcLjcuPamGe/view?usp=sharing)!
 
 ## 💻 Project
 
